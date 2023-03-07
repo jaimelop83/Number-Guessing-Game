@@ -1,0 +1,24 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimelop83/Number-Guessing-Game.git"
+  },
+  "author": "Jaime Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimelop83/Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/jaimelop83/Number-Guessing-Game#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21"
+  }
+}
